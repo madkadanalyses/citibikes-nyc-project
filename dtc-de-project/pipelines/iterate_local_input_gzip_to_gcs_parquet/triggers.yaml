@@ -1,0 +1,45 @@
+triggers:
+- envs: []
+  last_enabled_at: 2024-04-18 22:17:57.941234
+  name: serene fire
+  pipeline_uuid: iterate_local_input_gzip_to_gcs_parquet
+  schedule_interval: '@once'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-04-17 22:17:00
+  status: active
+  variables: {}
+- envs: []
+  last_enabled_at: 2024-04-18 22:35:57.466258
+  name: indigo bard
+  pipeline_uuid: iterate_local_input_gzip_to_gcs_parquet
+  schedule_interval: '@once'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-04-17 22:35:00
+  status: active
+  variables: {}
+- envs: []
+  last_enabled_at: 2024-04-18 22:59:13.361073
+  name: flawless snowflake
+  pipeline_uuid: iterate_local_input_gzip_to_gcs_parquet
+  schedule_interval: '@once'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-04-17 22:59:00
+  status: active
+  variables: {}
+- envs: []
+  last_enabled_at: 2024-04-18 23:25:33.406557
+  name: knightly smoke
+  pipeline_uuid: iterate_local_input_gzip_to_gcs_parquet
+  schedule_interval: '@once'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-04-17 23:25:00
+  status: active
+  variables: {}
